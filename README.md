@@ -2,7 +2,7 @@
 Tools to summarize and display large, quantitative lineage-tracing datasets of clone sizes as 2D heatmaps of the frequency of clones with different number of basal and suprabasal cells.
 
 The 2D-heatmap plots obtained with this repository were first applied in:
-  > Fernandez-Antoran D, Piedrafita G, Murai K, Ong SH, Herms A, Frezza C, Jones PH (2019) Outcompeting p53-mutant cells in the normal esophagus by redox manipulation. _Cell Stem Cell_ 25(3):329-341.e6. doi: 10.1016/j.stem.2019.06.011.
+  > Fernandez-Antoran D, Piedrafita G, Murai K, Ong SH, Herms A, Frezza C, Jones PH (2019) Outcompeting p53-mutant cells in the normal esophagus by redox manipulation. _Cell Stem Cell_ 25(3):329-341.e6. https://doi.org/10.1016/j.stem.2019.06.011.
 
 ### Graphical abstract
 ![GraphicalAbstract](https://github.com/gp10/CloneSizeFreq_2Dheat/blob/master/Graphical_abstract_CloneSizeFreq_2Dheat.png)
